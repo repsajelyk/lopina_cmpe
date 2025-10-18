@@ -3,9 +3,9 @@ import serial
 
 print("Hello World Double Quote")
 print('Hello World Single Quote')
-print('Leonel Said "Hello World Single Quote!!!"')
-print("Leonel Said 'Hello World Single Quote!!!'")
-print("Leonel Said \"Hello World Single Quote!!!\"")
+print('Jasper Said "Hello World Single Quote!!!"')
+print("Jasper Said 'Hello World Single Quote!!!'")
+print("Jasper Said \"Hello World Single Quote!!!\"")
 
 print(input("Enter your PIN number : "))
 
